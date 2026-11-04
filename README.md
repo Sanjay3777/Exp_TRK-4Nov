@@ -1,2 +1,2 @@
-# Expense_Tracker_Basic
-Expense_Tracker_Basic
+# Exp_TRK-4Nov
+Expense tracker (Spendly) built with Flask and SQLite.
